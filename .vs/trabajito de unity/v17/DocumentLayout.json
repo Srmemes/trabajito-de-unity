@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\repositorioebac-main\\repositorioebac-main\\trabajito de unity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB6B2DD-177E-BEED-0852-C8120FB85377}|Assembly-CSharp.csproj|G:\\repositorioebac-main\\repositorioebac-main\\trabajito de unity\\assets\\scripts\\componente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB6B2DD-177E-BEED-0852-C8120FB85377}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\componente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB6B2DD-177E-BEED-0852-C8120FB85377}|Assembly-CSharp.csproj|G:\\repositorioebac-main\\repositorioebac-main\\trabajito de unity\\assets\\scripts\\componente1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB6B2DD-177E-BEED-0852-C8120FB85377}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\componente1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB6B2DD-177E-BEED-0852-C8120FB85377}|Assembly-CSharp.csproj|G:\\repositorioebac-main\\repositorioebac-main\\trabajito de unity\\assets\\scripts\\componente3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB6B2DD-177E-BEED-0852-C8120FB85377}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\componente3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB6B2DD-177E-BEED-0852-C8120FB85377}|Assembly-CSharp.csproj|g:\\repositorioebac-main\\repositorioebac-main\\trabajito de unity\\assets\\scripts\\holamundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB6B2DD-177E-BEED-0852-C8120FB85377}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\holamundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HolaMundo.cs",
+              "DocumentMoniker": "G:\\repositorioebac-main\\repositorioebac-main\\trabajito de unity\\Assets\\Scripts\\HolaMundo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HolaMundo.cs",
+              "ToolTip": "G:\\repositorioebac-main\\repositorioebac-main\\trabajito de unity\\Assets\\Scripts\\HolaMundo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HolaMundo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:50:47.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "componente3.cs",
+              "DocumentMoniker": "G:\\repositorioebac-main\\repositorioebac-main\\trabajito de unity\\Assets\\Scripts\\componente3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\componente3.cs",
+              "ToolTip": "G:\\repositorioebac-main\\repositorioebac-main\\trabajito de unity\\Assets\\Scripts\\componente3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\componente3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:47:56.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "componente1.cs",
+              "DocumentMoniker": "G:\\repositorioebac-main\\repositorioebac-main\\trabajito de unity\\Assets\\Scripts\\componente1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\componente1.cs",
+              "ToolTip": "G:\\repositorioebac-main\\repositorioebac-main\\trabajito de unity\\Assets\\Scripts\\componente1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\componente1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:47:51.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "componente2.cs",
+              "DocumentMoniker": "G:\\repositorioebac-main\\repositorioebac-main\\trabajito de unity\\Assets\\Scripts\\componente2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\componente2.cs",
+              "ToolTip": "G:\\repositorioebac-main\\repositorioebac-main\\trabajito de unity\\Assets\\Scripts\\componente2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\componente2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:29:15.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
